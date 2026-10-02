@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World Annie
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnieZX/AnnieZX/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnieZX/AnnieZX/output/github-snake.svg">
